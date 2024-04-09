@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: #D7213A;
+    background: #E7BC79;
+}
+
+/* h2{
+            color: blue;
+        } */
+#testb {
+    color: blue;
+}
+
+.test {
+    color: green;
+}
+
+h3,
+h4,
+h5 {
+    color: orange;
+}
+.box{
+    border: 5px solid;
+    padding: 100px 20px 50px 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
